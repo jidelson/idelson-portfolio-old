@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.57763072.chunk.css",
-    "main.js": "/static/js/main.dd9fd72b.chunk.js",
-    "main.js.map": "/static/js/main.dd9fd72b.chunk.js.map",
+    "main.js": "/static/js/main.2bc5c251.chunk.js",
+    "main.js.map": "/static/js/main.2bc5c251.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.38b25732.js",
     "runtime-main.js.map": "/static/js/runtime-main.38b25732.js.map",
     "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
@@ -22,9 +22,11 @@
     "static/media/css.dcaf0577.png": "/static/media/css.dcaf0577.png",
     "static/media/expression.ac451d22.jpg": "/static/media/expression.ac451d22.jpg",
     "static/media/headshot.d2b1d9bc.jpg": "/static/media/headshot.d2b1d9bc.jpg",
+    "static/media/heroku.e503208b.jpg": "/static/media/heroku.e503208b.jpg",
     "static/media/lambda.6d6412d1.png": "/static/media/lambda.6d6412d1.png",
     "static/media/logo.52f3e16b.png": "/static/media/logo.52f3e16b.png",
     "static/media/node.2c82c328.png": "/static/media/node.2c82c328.png",
+    "static/media/postgresql.c70abfe5.png": "/static/media/postgresql.c70abfe5.png",
     "static/media/react.b44da1dc.png": "/static/media/react.b44da1dc.png",
     "static/media/redux.2ce1ecd9.png": "/static/media/redux.2ce1ecd9.png",
     "static/media/rez.4213010d.pdf": "/static/media/rez.4213010d.pdf",
@@ -37,6 +39,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.91d2991e.chunk.js",
     "static/css/main.57763072.chunk.css",
-    "static/js/main.dd9fd72b.chunk.js"
+    "static/js/main.2bc5c251.chunk.js"
   ]
 }
